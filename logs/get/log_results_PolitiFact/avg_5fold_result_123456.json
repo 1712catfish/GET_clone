@@ -1,0 +1,67 @@
+{
+  "auc": {
+    "all_0_folds": "",
+    "avg": NaN,
+    "std": NaN
+  },
+  "f1": {
+    "all_0_folds": "",
+    "avg": NaN,
+    "std": NaN
+  },
+  "f1_false_cls": {
+    "all_0_folds": "",
+    "avg": NaN,
+    "std": NaN
+  },
+  "f1_macro": {
+    "all_0_folds": "",
+    "avg": NaN,
+    "std": NaN
+  },
+  "f1_micro": {
+    "all_0_folds": "",
+    "avg": NaN,
+    "std": NaN
+  },
+  "f1_mixed_cls": {
+    "all_0_folds": "",
+    "avg": NaN,
+    "std": NaN
+  },
+  "f1_true_cls": {
+    "all_0_folds": "",
+    "avg": NaN,
+    "std": NaN
+  },
+  "precision_false_cls": {
+    "all_0_folds": "",
+    "avg": NaN,
+    "std": NaN
+  },
+  "precision_mixed_cls": {
+    "all_0_folds": "",
+    "avg": NaN,
+    "std": NaN
+  },
+  "precision_true_cls": {
+    "all_0_folds": "",
+    "avg": NaN,
+    "std": NaN
+  },
+  "recall_false_cls": {
+    "all_0_folds": "",
+    "avg": NaN,
+    "std": NaN
+  },
+  "recall_mixed_cls": {
+    "all_0_folds": "",
+    "avg": NaN,
+    "std": NaN
+  },
+  "recall_true_cls": {
+    "all_0_folds": "",
+    "avg": NaN,
+    "std": NaN
+  }
+}
